@@ -1,0 +1,3 @@
+rootProject.name = 'chanaka_test'
+
+include ':app'
