@@ -57,6 +57,5 @@ You can also create your own Hooks to reuse stateful behavior between different 
 
 
 git add .
-git commit -m "Fresh React Native App"
-git remote add origin https://github.com/ChanakaWeerasinghe/chanaka_test.git
+git commit -m "finishing"
 git push -u origin master
