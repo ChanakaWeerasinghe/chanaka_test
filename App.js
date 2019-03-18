@@ -69,6 +69,9 @@
      handlePassword = (text) => {
         this.setState({ password: text })
      }
+
+
+     ///validations
      login = (email, pass) => {
 
        let reg = /^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$/ ;
