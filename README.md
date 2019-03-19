@@ -3,6 +3,7 @@
 
 1. npm install -g react-native-cli
 2. react-native init chanaka_test
+   cd chanaka_test
 3. git init
 4. git add .  && git commit -m "Fresh React Native App"
 
